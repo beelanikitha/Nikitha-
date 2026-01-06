@@ -1,3 +1,3 @@
 # Nikitha-
 my first git repository
-Author- Nikitha
+Author- Nikitha (beela)
